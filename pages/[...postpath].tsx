@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https.www.google.com/` + encodeURI(path as string)
+					`https://www.profitablecpmrate.com/czqd6yx7uq?key=14283ef17d3e4a6ac437b7df06553b75/` 
 				}`,
 			},
 		};
